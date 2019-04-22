@@ -5,7 +5,7 @@
 ## Recipe
 - [Dockerfile](./Dockerfile)
 
-## USAGE
+## Usage
 ```sh
 # build
 docker build . -t y-cruncher:v0.7.7.9500
