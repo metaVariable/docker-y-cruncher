@@ -20,5 +20,6 @@ docker run -it y-cruncher:v0.7.7.9500 bash
 
 $ ./y-cruncher custom pi -dec:10000
 
-$ cat ${AS_YOUR_OWN_OUTPUT}
+# see 100 decimal digits from head
+$ head -c 100 "Pi - Dec - Chudnovsky.txt"
 ```
